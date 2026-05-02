@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.start {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 100%;
+    height: 100vh;
+}
+.startBtn button {
+    color:white;
+    background-color: black;
+    padding: 6px;
+    border-radius: 6px;
+}
